@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "00c1db861ad86ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f824ec59dd221ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "a8c813b797627bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/2022-08-20 Calendarize all posts and tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3e7e4dbb387692a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8d5909248147a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c9b1fcc5bd41315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9958860ed625c78b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60a53351d33273af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "630594e7cc7bc22c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b885ac991d7cc673",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15f662d98d93e470",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c42bf74f7a8ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20793f9109a26e02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/2022-08-20 Calendarize all posts and tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7797807aed69ea20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Events/2022-08-20 Calendarize all posts and tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce2c6b807568f1d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecd86841f697b72f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Events/2022-08-20 Calendarize all posts and tasks.md"
+              }
+            }
+          },
+          {
+            "id": "e9c0074e5725fae4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c3e7e4dbb387692a",
+  "lastOpenFiles": [
+    "Events/2022-08-20 Calendarize all posts and tasks.md",
+    "ORCID Raffaella Poccobello.md",
+    "CORDIS DISEASES  Grant agreement 340121.md",
+    "todo.md",
+    "ORCID Tommaso Bonavigo.md"
+  ]
+}

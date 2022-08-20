@@ -1,0 +1,32 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#603606",
+      "url": "https://calendar.google.com/calendar/ical/c_vt03njqpo013e1laub2dlcqe8g%40group.calendar.google.com/private-061ee0aa32379f6cfa74bd05431ced86/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#ff9633",
+      "url": "https://calendar.google.com/calendar/ical/enricgarcia%40uoc.edu/private-1c288a9be558a0241eff11428d6e550c/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#49b655",
+      "url": "https://calendar.google.com/calendar/ical/c_d56u8ktbqsck9eq844jb3nu7js%40group.calendar.google.com/private-a84bf7136e1f6078eb800a30351978a5/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#0576f0",
+      "url": "https://calendar.google.com/calendar/ical/c_mgt3uhgv3hjcm38b9e76d4ef1g%40group.calendar.google.com/private-c884ecb1380d396e400a522012122bb4/basic.ics"
+    },
+    {
+      "type": "local",
+      "color": "#ff00dd",
+      "directory": "Events"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 1
+}
