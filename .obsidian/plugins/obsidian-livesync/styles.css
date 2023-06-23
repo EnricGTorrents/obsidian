@@ -85,13 +85,6 @@
 
 } */
 
-.sls-btn-left {
-    padding-right: 4px;
-}
-
-.sls-btn-right {
-    padding-left: 4px;
-}
 
 .sls-header-button {
     margin-left: 2em;
@@ -106,8 +99,9 @@
 }
 
 .CodeMirror-wrap::before,
-.cm-s-obsidian>.cm-editor::before {
-    content: var(--slsmessage);
+.cm-s-obsidian>.cm-editor::before,
+.canvas-wrapper::before {
+    content: attr(data-log);
     text-align: right;
     white-space: pre-wrap;
     position: absolute;
@@ -120,6 +114,10 @@
     font-size: 80%;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
+}
+
+.canvas-wrapper::before {
+    right: 48px;
 }
 
 .CodeMirror-wrap::before {
@@ -156,7 +154,7 @@ div.sls-setting-menu-btn {
 }
 
 .sls-setting-tab:hover~div.sls-setting-menu-btn,
-.sls-setting-tab:checked~div.sls-setting-menu-btn {
+.sls-setting-label.selected .sls-setting-tab:checked~div.sls-setting-menu-btn {
     background-color: var(--interactive-accent);
     color: var(--text-on-accent);
 }
@@ -241,4 +239,16 @@ div.sls-setting-menu-btn {
     padding: 2px;
     margin: 1px;
     border-radius: 4px;
+}
+
+.isWizard .wizardHidden {
+    display: none;
+}
+
+.sls-setting:not(.isWizard) .wizardOnly {
+    display: none;
+}
+
+.sls-item-dirty::before {
+    content: "✏";
 }

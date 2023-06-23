@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Book chapters",
+      "path": "Book chapters.md"
+    },
+    {
+      "basename": "todo",
+      "path": "todo.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "VPS",
+      "path": "VPS.md"
+    },
+    {
       "basename": "2022-08-20 Calendarize all posts and tasks",
       "path": "Events/2022-08-20 Calendarize all posts and tasks.md"
     },
@@ -13,14 +29,11 @@
       "path": "CORDIS DISEASES  Grant agreement 340121.md"
     },
     {
-      "basename": "todo",
-      "path": "todo.md"
-    },
-    {
       "basename": "ORCID Tommaso Bonavigo",
       "path": "ORCID Tommaso Bonavigo.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
